@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 66664215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Order</source>
+          <target>Transfer Order</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 66664215 - ReportDataItem 151805736 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Order</source>
+          <target>Transfer Order</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order - ReportDataItem Transfer Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 66664215 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 66664215 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <target>No. of Copies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 66664215 - Control 2578066365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many copies of the document to print.</source>
+          <target>Specifies how many copies of the document to print.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order - Control NoOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 66664215 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <target>Show Internal Information</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 66664215 - Control 316520822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the printed report to show information that is only for internal use.</source>
+          <target>Specifies if you want the printed report to show information that is only for internal use.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order - Control ShowInternalInfo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 66664215 - ReportLabel 2020178030" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Posting Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order - ReportLabel PostingDateCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 66664215 - ReportLabel 2725117825" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <target>Shipment Method</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order - ReportLabel ShptMethodDescCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 66664215 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <target>COPY</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 66664215 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Order %1</source>
+          <target>Transfer Order %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 66664215 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1</source>
+          <target>Page %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 66664215 - NamedType 833194851" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <target>Header Dimensions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order - NamedType HdrDimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 66664215 - NamedType 3701122699" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <target>Line Dimensions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order - NamedType LineDimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1974672357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Shipment</source>
+          <target>Transfer Shipment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1974672357 - ReportDataItem 1340367376 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Transfer Shipment</source>
+          <target>Posted Transfer Shipment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment - ReportDataItem Transfer Shipment Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 1974672357 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1974672357 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <target>No. of Copies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1974672357 - Control 2578066365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many copies of the document to print.</source>
+          <target>Specifies how many copies of the document to print.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment - Control NoOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1974672357 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <target>Show Internal Information</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1974672357 - Control 316520822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want all dimensions assigned to the line to be shown.</source>
+          <target>Specifies if you want all dimensions assigned to the line to be shown.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment - Control ShowInternalInfo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1974672357 - ReportLabel 2020178030" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Posting Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment - ReportLabel PostingDateCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 1974672357 - ReportLabel 131686202" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <target>Shipment Method</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment - ReportLabel ShptMethodCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 1974672357 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <target>COPY</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 1974672357 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Shipment %1</source>
+          <target>Transfer Shipment %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 1974672357 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1</source>
+          <target>Page %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 1974672357 - NamedType 2010218130" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment No.</source>
+          <target>Shipment No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment - NamedType TransShptHdrNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1974672357 - NamedType 1202652494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Date</source>
+          <target>Shipment Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment - NamedType TransShptShptDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1974672357 - NamedType 1216568958" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <target>Header Dimensions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment - NamedType HdrDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1974672357 - NamedType 960460070" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <target>Line Dimensions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment - NamedType LineDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 908944129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Receipt</source>
+          <target>Transfer Receipt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 908944129 - ReportDataItem 3550754772 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Transfer Receipt</source>
+          <target>Posted Transfer Receipt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt - ReportDataItem Transfer Receipt Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 908944129 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 908944129 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <target>No. of Copies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 908944129 - Control 2578066365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many copies of the document to print.</source>
+          <target>Specifies how many copies of the document to print.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt - Control NoOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 908944129 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <target>Show Internal Information</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 908944129 - Control 316520822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want all dimensions assigned to the line to be shown.</source>
+          <target>Specifies if you want all dimensions assigned to the line to be shown.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt - Control ShowInternalInfo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 908944129 - ReportLabel 2020178030" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Posting Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt - ReportLabel PostingDateCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 908944129 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <target>COPY</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 908944129 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Receipt %1</source>
+          <target>Transfer Receipt %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 908944129 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1</source>
+          <target>Page %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 908944129 - NamedType 856249130" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment No.</source>
+          <target>Shipment No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt - NamedType TransRcptHdrNo2CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 908944129 - NamedType 1216568958" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <target>Header Dimensions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt - NamedType HdrDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 908944129 - NamedType 960460070" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <target>Line Dimensions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt - NamedType LineDimCaptionLbl</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
